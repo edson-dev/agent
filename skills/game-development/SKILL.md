@@ -34,6 +34,12 @@ You are working on a game development project. This skill teaches the PRINCIPLES
 | 2D (sprites, tilemaps) | `game-development/2d-games` |
 | 3D (meshes, shaders) | `game-development/3d-games` |
 
+### Engine Selection
+
+| If you are using... | Use Sub-Skill |
+|---------------------|---------------|
+| Godot (GDScript) | `godot-development` |
+
 ### Specialty Areas
 
 | If you need... | Use Sub-Skill |
