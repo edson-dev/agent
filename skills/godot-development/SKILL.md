@@ -43,7 +43,7 @@ This skill provides GDScript-specific rules for writing correct, maintainable Go
 ### Nodes, Paths, and References
 - Use `@onready` for node references that depend on the scene tree.
 - Avoid combining `@onready` with `@export` on the same variable.
-- Use `%NodeName` or `$NodePath` to get nodes when appropriate.
+- Use `%NodeName` or `$NodePath` to get nodes when appropriate(prefer Nodename).
 - Prefer typed node references for clarity and autocomplete.
 
 ### Signals and Events
